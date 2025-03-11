@@ -2,6 +2,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+
+
+
+
 void Account_info()
 {
     int n=1001;
